@@ -145,7 +145,7 @@ const GALLERY = [
   },
   {
     id: "005",
-    title: "turtle-lake",
+    title: "Turtle-lake",
     tag: "WILDLIFE",
     col: "span-2",
     src: "/photos/turtle-lake.JPG",
