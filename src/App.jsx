@@ -272,7 +272,7 @@ function PricingCard({ plan }) {
           </li>
         ))}
       </ul>
-      <a href="mailto:your@email.com" className="pricing-cta">
+      <a href="mailto:elizalde.13@hotmail.com" className="pricing-cta">
         <span className="pricing-cta-prompt">&gt;&nbsp;</span>
         BOOK NOW
       </a>
