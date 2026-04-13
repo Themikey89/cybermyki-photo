@@ -150,6 +150,13 @@ const GALLERY = [
     col: "span-2",
     src: "/photos/turtle-lake.JPG",
   },
+    {
+    id: "006",
+    title: "proposal",
+    tag: "EVENT",
+    col: "",
+    src: "/photos/proposal.jpg",
+  },
 ];
 
 // ── PRICING ───────────────────────────────────────────────────────────────────
@@ -272,7 +279,7 @@ function PricingCard({ plan }) {
           </li>
         ))}
       </ul>
-      <a href="mailto:elizalde.13@hotmail.com" className="pricing-cta">
+      <a href={`mailto:elizalde.13@hotmail.com?subject=Booking Inquiry — ${plan.label}`} className="pricing-cta">
         <span className="pricing-cta-prompt">&gt;&nbsp;</span>
         BOOK NOW
       </a>
