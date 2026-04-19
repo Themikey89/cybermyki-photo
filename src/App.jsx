@@ -145,13 +145,20 @@ const GALLERY = [
   },
   {
     id: "005",
-    title: "Turtle-lake",
+    title: "WellsFargoTower",
+    tag: "ARCHITECTURE",
+    col: "",
+    src: "/photos/WellsFargoTower.jpg",
+  },
+  {
+    id: "006",
+    title: "turtle-lake",
     tag: "WILDLIFE",
     col: "span-2",
     src: "/photos/turtle-lake.JPG",
   },
-    {
-    id: "006",
+  {
+    id: "007",
     title: "proposal",
     tag: "EVENT",
     col: "",
