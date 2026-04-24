@@ -171,6 +171,20 @@ const GALLERY = [
     col: "",
     src: "/photos/Mural.JPG",
   },
+    {
+    id: "009",
+    title: "cowboyhat",
+    tag: "PORTRAIT",
+    col: "",
+    src: "/photos/cowboyhat.jpg",
+  },
+  {
+    id: "010",
+    title: "cowboydog",
+    tag: "PORTRAIT",
+    col: "",
+    src: "/photos/cowboydog.JPG",
+  },
 ];
 
 // ── PRICING ───────────────────────────────────────────────────────────────────
