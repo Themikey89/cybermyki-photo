@@ -386,7 +386,7 @@ body {
 @media (max-width: 460px) { .gallery-grid { grid-template-columns: 1fr; } }
 .gallery-card {
   position: relative;
-  height: 280px;
+  height: 340px;
   background: var(--bg-3);
   border: 1px solid var(--border);
   border-radius: 4px;

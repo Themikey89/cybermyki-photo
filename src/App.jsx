@@ -164,6 +164,13 @@ const GALLERY = [
     col: "",
     src: "/photos/proposal.jpg",
   },
+  {
+    id: "008",
+    title: "Mural",
+    tag: "STREET",
+    col: "",
+    src: "/photos/Mural.JPG",
+  },
 ];
 
 // ── PRICING ───────────────────────────────────────────────────────────────────
