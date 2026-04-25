@@ -180,7 +180,7 @@ const GALLERY = [
   },
   {
     id: "010",
-    title: "cowboydog",
+    title: "cowboyDog",
     tag: "PORTRAIT",
     col: "",
     src: "/photos/cowboydog.JPG",
